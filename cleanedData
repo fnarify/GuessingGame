@@ -1,0 +1,25 @@
+T: does it eat people?
+  T: does it eat bananas?
+    T: Is it an ape?
+      N:
+      T: Is it a shark?
+        N:
+        N:
+    T: Is it a lion?
+      N:
+      T: Is it a shark?
+        N:
+        N:
+  T: does it eat bananas?
+    T: Is it an ape?
+      N:
+      T: Is it an elephant?
+        N:
+        N:
+    T: Is it a koala?
+      N:
+      T: Is it an elephant?
+        N:
+        N:
+N:
+N:

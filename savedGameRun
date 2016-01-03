@@ -1,0 +1,25 @@
+T: does it have feet?
+  T: does it have horns?
+    T: Does it say "moo"?
+      T: Is it a cow?
+        N:
+        N:
+      T: Is it a goat?
+        N:
+        N:
+    T: Is it a cat?
+      N:
+      N:
+  T: does it eat mice?
+    T: Is it a snake?
+      N:
+      N:
+    T: does it like fish?
+      T: Is it a shark?
+        N:
+        N:
+      T: Is it a jellyfish?
+        N:
+        N:
+N:
+N:

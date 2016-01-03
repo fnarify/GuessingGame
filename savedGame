@@ -1,0 +1,39 @@
+T: does it have feet?
+  T: does it have horns?
+    T: Is it a goat?
+      N: 
+      N: 
+    T: Is it a cat?
+      N: 
+      N: 
+  T: does it eat mice?
+    T: Is it a snake?
+      N: 
+      N: 
+    T: does it like fish?
+      T: Is it a shark?
+        N: 
+        N: 
+      T: Is it a jellyfish?
+        N: 
+        N: 
+N: 
+N: 
+T: yes
+  T: Is it cat?
+    N: 
+    N: 
+  T: Is it dog?
+    N: 
+    N: 
+N: 
+N: 
+T: does it bark
+  T: Is it cat?
+    N: 
+    N: 
+  T: Is it dog?
+    N: 
+    N: 
+N: 
+N: 
