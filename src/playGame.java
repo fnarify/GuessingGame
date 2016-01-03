@@ -12,10 +12,6 @@ public class playGame
 	//
 	// If you want to change the input then you can change the data in the file "animalData",
 	// but make sure it abides by the expected format: otherwise you will get an error.
-	//
-	// Your task is to complete the methods "play" and "save" so that the game loads, plays and
-	// saves as in the demonstrator program. Versions of the corresponding tests will be used in the automarking
-	// of your work.
 	
 	public static void main(String[] args) 
 	{

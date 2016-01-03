@@ -9,7 +9,7 @@ import org.junit.Test;
 public class AnimalTests {
 	
 	@Test	
-	public void testPlaySimpleGame() { // 1 mark
+	public void testPlaySimpleGame() {
 		// Checks to see whether the game can be played without crashing
 		Guess game= new Guess();
 		BufferedReader in= null;
@@ -54,7 +54,7 @@ public class AnimalTests {
 	}
 	
 	@Test	
-	public void testPlayandAddNodeSimple() {  // 1 mark
+	public void testPlayandAddNodeSimple() { 
 		// Can you play the game and add a new node without crashing		
 		Guess game= new Guess();
 		BufferedReader in= null;
@@ -99,7 +99,7 @@ public class AnimalTests {
 	}
 	
 	@Test	
-	public void testPlayandAddNode() {// 1 mark
+	public void testPlayandAddNode() {
 		// Same as before but check that the node is properly installed in the tree
 		Guess game= new Guess();
 		BufferedReader in= null;
@@ -156,7 +156,7 @@ public class AnimalTests {
 	}
 	
 	@Test
-	public void testSaveMaybe() { // 1 mark
+	public void testSaveMaybe() {
 		Guess game= new Guess();
 		String loadFileName= "animalSave";  // Default file names.
 		game.makeTree(loadFileName); // Calls the makeTree method in Guess
@@ -192,7 +192,7 @@ public class AnimalTests {
 	}
 	
 	@Test
-	public void testMerge() { // 2 marks
+	public void testMerge() { 
 		
 		// Build the first tree
 		Guess game1= new Guess();
@@ -220,7 +220,7 @@ public class AnimalTests {
 	}
 	
 	@Test
-	public void testClean() {// 2 marks
+	public void testClean() {
 		// test that clean works on the merged file
 		
 		System.out.println("Loading mergedDataC");
